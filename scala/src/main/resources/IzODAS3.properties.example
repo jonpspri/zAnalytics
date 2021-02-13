@@ -1,0 +1,10 @@
+# Set these to the cluster username and password if you want to avoid
+# passing them on the command line.  You manage these yourself at
+# https://zcloud.marist.edu/#/spark
+com.ibm.scalademo.username = <username>
+com.ibm.scalademo.password = <password>
+
+# These items are only needed if you are using an S3-enabled demo class
+fs.s3a.access.key = <access-key>
+fs.s3a.secret.key = <secret-key>
+com.ibm.scalademo.s3bucket = <bucket-name>

@@ -1,0 +1,6 @@
+/scala/**/project
+/scala/**/target
+/scala/**/.bsp
+.classpath
+.metals
+IzODAS3.properties
